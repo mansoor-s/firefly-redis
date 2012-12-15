@@ -1,0 +1,17 @@
+{ 
+    "name": "firefly-redis",
+    "description": "Redis service for Firefly",
+    "version": "0.0.1",
+    "url": "https://github.com/mansoor-s/firefly-redis",
+    "author": "Mansoor Sayed <mansoor@mansoorsayed.com>",
+    "engines": ["node >= 0.8.7"],
+    "main": "firefly-redis.js",
+    "dependencies": {
+        "redis": "latest"
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "git@github.com:mansoor-s/firefly-redis.git"
+    }
+}
+
